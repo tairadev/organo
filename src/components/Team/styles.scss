@@ -1,0 +1,17 @@
+.team {
+  text-align: center;
+  padding: 32px;
+  background-color: #d9f7e9;
+  h3 {
+    font-size: 32px;
+    border-bottom: 4px solid #57c278;
+    display: inline-block;
+    padding-bottom: 8px;
+  }
+  .employees {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    flex-wrap: wrap;
+  }
+}
